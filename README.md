@@ -1,4 +1,3 @@
-```markdown
 # Undergraduate Capstone Research & Industrial Dissertation Dossier
 
 **Candidate:** Vatsla Adhikari | **Application No:** 10081516 | **uni-assist ID:** 3570122  
@@ -42,7 +41,6 @@ During camera barrel bonding, non-uniform curing shrinkage of UV epoxy tilts the
   ```text
   Z1 = argmax_Z (MTF_Center(Z))
 
-```
 
 * **Peripheral Composite Focus (Average of 4 Corners):**
 ```text
