@@ -37,3 +37,6 @@ git clone [https://github.com/your-username/aoi-particle-geometry-profiler.git](
 cd aoi-particle-geometry-profiler
 pip install -r requirements.txt
 python src/particle_profiler.py
+
+Proprietary Notice
+Note: Production database schemas, proprietary hardware interface drivers, and raw factory travel-card datasets are property of REC Technology Corporation and subject to non-disclosure agreements (NDA). Algorithmic formulations, milestone examination slides, and standalone image processing pipelines are published here for academic evaluation and dissertation equivalence verification.
